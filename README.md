@@ -1,4 +1,4 @@
-# RF Integrated Circuits (EE6320) Spring 2023
+# RF Integrated Circuits (EE6320) Spring 2024
 
 This repository contains the project submissions for the course EE6320 : RF Integrated Circuits instructed by Prof. Sankaran Aniruddhan in the Jan-May 2024 semester at IIT Madras. Brief description of each project is provided below -
 
